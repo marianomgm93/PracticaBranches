@@ -1,5 +1,6 @@
 # PracticaBranches
 Clase github egg
-Giuliano \n
-Mariano \n
-Tomas \n
+Giuliano 
+Mariano 
+Tomas 
+Antito 
